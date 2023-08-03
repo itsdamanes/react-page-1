@@ -5,7 +5,7 @@ export const Header = ( title, subtitle, url, label) => {
         <header className="masthead text-center text-white">
         <div className="masthead-content">
             <div className="container px-5">
-                <h1 className="masthead-heading mb-0">(title)</h1>
+                <h1 className="masthead-heading mb-0">One page wonder</h1>
                 <h2 className="masthead-subheading mb-0">Will Rock Your Socks Off</h2>
                 <a className="btn btn-primary btn-xl rounded-pill mt-5" href="#scroll">Learn More</a>
             </div>
